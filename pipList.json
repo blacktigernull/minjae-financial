@@ -1,0 +1,11 @@
+{
+  "pipList": [
+    "Flask",
+    "SQLAlchemy",
+    "mysql-connector-python",
+    "PyJWT",
+    "python-dotenv",
+    "bcrypt",
+    "flask_cors"
+  ]
+}
